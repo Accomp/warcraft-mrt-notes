@@ -1,0 +1,19 @@
+|cff808080PHASE 1|r
+- {Paladin} |cfff48cbaGemspally|r tank facing away
+- Reposition after [Vortex]
+- {skull} Kill Power Sparks ASAP (dmg buff)
+- {Death Knight} |cffc41e3aItstragic|r|r grip Power sparks
+
+|cff808080PHASE 2 - 50%|r
+- {skull} Keep DPSing boss
+- Stand under purple shields
+- {skull} Kill Nexus Lords ASAP
+- DPS get discs, keep killing
+
+|cff808080PHASE 3|r
+- Stack in middle
+- Drakes always stack tight
+- {Priest} |cffffffffAllyhail|r / {Paladin} |cfff48cbaOdpal|r heal, everyone else DPS
+- After every [Static Field], rotate right and stack
+- DPS rotation = 1 > 1 > 2 (keep up debuff)
+- Heal rotation = 3 builder, 4 spender

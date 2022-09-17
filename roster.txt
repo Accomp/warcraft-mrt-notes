@@ -1,0 +1,18 @@
+TANKS
+
+{Paladin} |cfff48cbaGemspally|r
+{Death Knight} |cffc41e3aItstragic|r|r
+
+HEALERS
+
+{Priest} |cffffffffAllyhail|r
+{Paladin} |cfff48cbaOdpal|r
+
+DPS
+
+{Rogue} |cfffff468Accomp|r
+{Warrior} |cffc69b6dBloodthirsti|r
+{Shaman} |cff0070ddDaekeypoo|r
+{Druid} |cffff7c0aLida|r
+{Mage} |cff3fc6eaMage|r
+{Druid} |cffff7c0aRamiel|r
