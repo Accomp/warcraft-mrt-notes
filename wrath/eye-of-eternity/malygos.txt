@@ -1,13 +1,14 @@
 |cff808080PHASE 1|r
 - {Paladin} |cfff48cbaGemspally|r tank facing away
-- Reposition after [Vortex]
-- {skull} Kill Power Sparks ASAP (dmg buff)
+- Reposition after [Vortex] (no tail swipes)
+- {skull} Kill Power Sparks ASAP (stand in dmg buff)
 - {Death Knight} |cffc41e3aItstragic|r|r grip Power sparks
 
 |cff808080PHASE 2 - 50%|r
 - {skull} Keep DPSing boss
 - Stand under purple shields
 - {skull} Kill Nexus Lords ASAP
+- {Mage} |cff3fc6eaColdam|r Spellsteal {spell:57060} Haste
 - DPS get discs, keep killing
 
 |cff808080PHASE 3|r
