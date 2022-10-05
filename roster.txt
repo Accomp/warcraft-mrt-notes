@@ -1,6 +1,6 @@
 TANKS
 
-{Paladin} |cfff48cbaGemspally|r
+{Paladin} |cfff48cbaRECRUIT|r
 {Death Knight} |cffc41e3aItstragic|r|r
 
 HEALERS

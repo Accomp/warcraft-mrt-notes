@@ -1,0 +1,5 @@
+- {Paladin} |cfff48cbaGemspally|r MT / {Death Knight} |cffc41e3aItstragic|r|r OT 
+- OT maintain 2nd threat
+- {Paladin} Odpal heal MT, {Priest} |cffffffffAllyhail|r heal OT
+- Align big defensive CDs for Tanks/Heals for 5% enrage
+- All DPS pump damage, but ALWAYS stay below Tanks on threat

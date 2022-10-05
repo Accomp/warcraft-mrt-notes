@@ -9,7 +9,7 @@
 - Stand under purple shields
 - {skull} Kill Nexus Lords ASAP
 - {Mage} |cff3fc6eaColdam|r Spellsteal {spell:57060} Haste
-- DPS get discs, keep killing
+- Melee DPS get discs first, keep killing
 
 |cff808080PHASE 3|r
 - Stack in middle
