@@ -13,5 +13,6 @@
 - CC mind control, {spell:28410} |cffffff00Chains of Kel'Thuzad|r. Do not kill each other!
 
 |cff808080Phase 3 (45%)|r
+- |cff0070ddDaekeypoo|r Heroism start of P3 @ 45%.
 - All previous mechanics continue, stay spread.
 - Two adds, spawn. |cfff48cbaAcc|r pick up. DPS ignore and kill boss.
