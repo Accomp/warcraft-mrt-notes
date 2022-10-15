@@ -1,20 +1,21 @@
 |cff808080PHASE 1|r
-- {Paladin} |cfff48cbaGemspally|r tank facing away
-- Reposition after [Vortex] (no tail swipes)
-- {skull} Kill Power Sparks ASAP (stand in dmg buff)
-- {Death Knight} |cffc41e3aItstragic|r|r grip Power sparks
+- |cfff48cbaAcc|r solo Tank facing away.
+- Reposition after [Vortex] (no tail swipes).
+- {skull} Kill Power Sparks in melee stack (stand in dmg buff).
+- |cffc41e3aItstragic|r|r grip Power sparks just outside melee.
+- |cff0070ddDaekeypoo|r Heroism once first spark is killed in good position.
 
 |cff808080PHASE 2 - 50%|r
-- {skull} Keep DPSing boss
-- Stand under purple shields
-- {skull} Kill Nexus Lords ASAP
-- {Mage} |cff3fc6eaColdam|r Spellsteal {spell:57060} Haste
-- Melee DPS get discs first, keep killing
+- {skull} Keep DPSing boss.
+- Stand under purple shields.
+- {skull} Kill Nexus Lords ASAP.
+- |cff3fc6eaColdam|r Spellsteal {spell:57060} Haste.
+- Melee DPS get discs first, keep killing.
 
 |cff808080PHASE 3|r
-- Stack in middle
-- Drakes always stack tight
-- {Priest} |cffffffffAllyhail|r / {Paladin} |cfff48cbaOdpal|r heal, everyone else DPS
-- After every [Static Field], rotate right and stack
-- DPS rotation = 1 > 1 > 2 (keep up debuff)
-- Heal rotation = 3 builder, 4 spender
+- Stack in middle.
+- Drakes always stack tight.
+- |cffffffffAllyhail|r / |cfff48cbaOdpal|r heal, everyone else DPS.
+- After every [Static Field], rotate right and stack. Person w/ debuff don't move early.
+- DPS rotation = 1 > 1 > 2 (keep up debuff).
+- Heal rotation = 3 builder, 4 spender.
