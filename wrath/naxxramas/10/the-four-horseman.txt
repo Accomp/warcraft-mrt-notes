@@ -1,4 +1,5 @@
 - |cfff48cbaAcc|r = Thane & Rivendare. |cfff48cbaOdpal|r = Blaumeux. |cff3fc6eaColdam|r = Zeliek.
+- |cffaad372Hunter|r MD Thane to |cfff48cbaAcc|r on pull.
 - Cleave Thane & Rivendare > Zeliek > Blaumeux.
 - |cff3fc6eaColdam|r & |cfff48cbaOdpal|r swap at 4 stacks (just need to have aura, not in melee).
 - Stack when killing Thane to share {spell:28884} |cffffff00Meteor|r damage.
