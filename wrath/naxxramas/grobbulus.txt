@@ -1,0 +1,6 @@
+- |cfff48cbaAcc|r solo Tank boss in corner, slowly kiting along perimeter of room, dropping poison neatly.
+- |cfff48cbaAcc|r pick up Fallout Slimes, DPS cleave down.
+- Raid always stay behind boss, don't stand in poison.
+- Everyone drop {spell:28169} |cffffff00Mutating Injection|r debuff next to the slimes we moved away from, just before it expires.
+- Healers, don't dispel.
+- |cff0070ddDaekeypoo|r Heroism ~ 5 seconds after pull.

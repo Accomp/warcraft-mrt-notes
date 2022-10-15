@@ -1,5 +1,7 @@
-- {Paladin} |cfff48cbaGemspally|r MT / {Death Knight} |cffc41e3aItstragic|r|r OT 
-- OT maintain 2nd threat
-- {Paladin} Odpal heal MT, {Priest} |cffffffffAllyhail|r heal OT
-- Align big defensive CDs for Tanks/Heals for 5% enrage
-- All DPS pump damage, but ALWAYS stay below Tanks on threat
+- |cffc41e3aItstragic|r|r MT / |cfff48cbaAcc|r OT.
+- OT maintain #2 threat.
+- |cffffffffAllyhail|r heal |cffc41e3aItstragic|r|r. |cfff48cbaOdpal|r heal |cfff48cbaAcc|r OT.
+- Tanks / Heals, align CD with each {spell:59192} |cffffff00Hateful Strike|r (no Sac, might die).
+- All DPS pump damage, but ALWAYS stay below Tanks on threat.
+- Align all CDs w/ enrage at 5%.
+- |cff0070ddDaekeypoo|r Heroism ~ 15 seconds after pull.

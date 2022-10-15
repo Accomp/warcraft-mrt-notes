@@ -1,0 +1,6 @@
+- |cfff48cbaAcc|r solo Tank (no Spores near Tank).
+- Can only heal in 3 second windows when {spell:55593} |cffffff00Necrotic Aura|r is down.
+- Melee & Ranged/Heals alternate soaking each {spell:29232} |cffffff00Fungal Creep|r.
+- Do not kill Spores without group underneath (no buff, you want 100% uptime).
+- |cffc41e3aItstragic|r, grip each Spore just outside melee, then kill in stack.
+- |cff0070ddDaekeypoo|r Heroism after second group gets {spell:29232} |cffffff00Fungal Creep|r buff.

@@ -1,0 +1,9 @@
+|cff808080Phase 1|r|cff808080|r
+- |cfff48cbaAcc|r solo Tank
+- |cff3fc6eaColdam|r & |cffff7c0aRamiel|r decurse {spell:29213} |cffffff00Curse of the Plaguebringer|r ASAP.
+- {skull} Kill the adds that spawn.
+- Let |cfff48cbaAcc|r get aggro after each {spell:29208} |cffffff00Blink|r.
+- |cff0070ddDaekeypoo|r Heroism ~ 5 seconds after pull.
+
+|cff808080Phase 2|r
+- Kill adds for 70 seconds.

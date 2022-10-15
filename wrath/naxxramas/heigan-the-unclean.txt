@@ -1,0 +1,10 @@
+|cff808080Phase 1|r|cff808080|r
+- |cfff48cbaAcc|r solo Tank.
+- Healers & Ranged stay on platform.
+- Melee move w/ |cfff48cbaAcc|r across room, avoiding eruptions & DPS boss.
+- Cleanse {spell:29998} |cffffff00Decrepit Fever|r ASAP.
+- |cff0070ddDaekeypoo|r Heroism ~ 5 seconds after pull.
+
+|cff808080Phase 2: Safety Dance|r
+- Everyone run to entrance.
+- Follow |cfff48cbaAcc|r across room to avoid eruptions until P1 again.

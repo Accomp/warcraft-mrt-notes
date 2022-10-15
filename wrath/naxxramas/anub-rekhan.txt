@@ -1,0 +1,6 @@
+- |cfff48cbaAcc|r solo Tank.
+- Raid spread out to avoid multiple {spell:56090}|cffffff00Impales|r
+- |cffaad372Hunter|r Misdirect Crypt Guards to |cfff48cbaAcc|r and |cffc41e3aItstragic|r Grip to help gather.
+- DPS / Stun Crypt Guards once gathered and any other adds.
+- |cfff48cbaAcc|r kite boss along wall during {spell:54021} |cffffff00Locust Swarm|r, Raid stay on opposite side of room.
+- |cff0070ddDaekeypoo|r Heroism ~ 5 seconds after pull.

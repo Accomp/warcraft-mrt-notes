@@ -1,0 +1,6 @@
+- |cfff48cbaAcc|r solo Tank, bring boss to door on other side of room.
+- |cff3fc6eaColdam|r kite all adds in back of room, away from boss. |cff0070ddDaekeypoo|r: Earthbind Totem, |cffaad372Hunter|r: Frost Trap.
+- Everyone stack behind boss, except |cff3fc6eaColdam|r kiting adds.
+- DPS single target boss only.
+- Once {spell:28375} |cffffff00Decimate|r triggers, Heals top everyone off, and DPS kill all adds.
+- |cff0070ddDaekeypoo|r Heroism ~ 5 seconds after pull.

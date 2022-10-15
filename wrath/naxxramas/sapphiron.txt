@@ -1,0 +1,11 @@
+|cff808080Phase 1|r
+- |cfff48cbaAcc|r solo Tank, use {spell:48945} |cffffff00Frost Resistant Aura|r.
+- |cff0070ddDaekeypoo|r use {spell:58745} |cffffff00Frost Resistance Totem|r.
+- Melee avoid head and tail.
+- Move out of {spell:28560} |cffffff00Chill|r AOE.
+- |cff3fc6eaColdam|r & |cffff7c0aRamiel|r decurse {spell:28542} |cffffff00Drain Life|r.
+- |cff0070ddDaekeypoo|r Heroism ~5s after pull.
+
+|cff808080Phase 2|r
+- Continue to DPS as boss goes in air, but melee move out from under.
+- Spread out, then hide behind an ice block (DPS as long as possible).

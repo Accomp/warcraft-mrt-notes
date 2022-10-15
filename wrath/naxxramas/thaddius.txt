@@ -1,0 +1,11 @@
+|cff808080Phase 1|r
+- |cfff48cbaAcc|r Tank Stalagg w/ Melee & |cfff48cbaOdpal|r.
+- |cffc41e3aItstragic|r|r Tank Feugen w/ Ranged & Allyhail (boss does melee AOE).
+- Stalagg & Feugen must die at same time.
+
+|cff808080Phase 2|r
+- Don't fail the jump.
+- To start, stack in front of Thaddius.
+- {spell:28062}  BOSS  {spell:28085}  Stack tightly max melee range.
+- If polarity changes, run to LEFT of boss and restack.
+- |cff0070ddDaekeypoo|r Heroism after first {spell:28089} |cffffff00Polarity Shift|r.

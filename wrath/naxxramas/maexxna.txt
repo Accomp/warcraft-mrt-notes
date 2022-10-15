@@ -1,0 +1,7 @@
+- |cfff48cbaAcc|r solo Tank.
+- Healers cleanse {spell:54121} |cffffff00Necrotic Poison|r, |cff0070ddDaekeypoo|r: Cleansing Totem.
+- Kill adds.
+- Ranged DPS break out cocoon.
+- Defensive CDs / HoTs in prep for each {spell:29484} |cffffff00Web Spray|r.
+- Defensive CDs @ 30% {spell:54124} |cffffff00Frenzy|r.
+- |cff0070ddDaekeypoo|r Heroism ~ 5 seconds after pull.
