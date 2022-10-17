@@ -1,7 +1,7 @@
 - |cffc41e3aItstragic|r|r MT / |cfff48cbaAcc|r OT.
 - OT maintain #2 threat.
 - |cffffffffAllyhail|r heal |cffc41e3aItstragic|r|r. |cfff48cbaOdpal|r heal |cfff48cbaAcc|r OT.
-- Tanks / Heals, align CD with each {spell:59192} |cffffff00Hateful Strike|r (no Sac, might die).
-- All DPS pump damage, but ALWAYS stay below Tanks on threat.
+- Tanks / Heals, stagger CDs to mitigate {spell:59192} |cffffff00Hateful Strike|r (no Sac, might die).
+- All DPS pump damage, but ALWAYS stay below Tanks on threat and not at full health (dip in ooze if high threat)
 - Align all CDs w/ enrage at 5%.
 - |cff0070ddDaekeypoo|r Heroism ~ 15 seconds after pull.
