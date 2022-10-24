@@ -1,6 +1,6 @@
 |cff808080Phase 1|r
-- |cfff48cbaAcc|r Tank Stalagg w/ Melee & |cfff48cbaOdpal|r.
-- |cffc41e3aItstragic|r|r Tank Feugen w/ Ranged & Allyhail (boss does melee AOE).
+- |cfff48cbaAcc|r, Melee, |cfff48cbaOdpal|r = Right.
+- |cffc41e3aItstragic|r|r, Ranged, Allyhail = Left.
 - Stalagg & Feugen must die at same time.
 
 |cff808080Phase 2|r
