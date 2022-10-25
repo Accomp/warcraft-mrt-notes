@@ -3,5 +3,5 @@
 - Everyone stack behind boss, except |cff3fc6eaColdam|r kiting adds.
 - DPS single target boss only.
 - Once {spell:28375} |cffffff00Decimate|r triggers, Heals top everyone off, and DPS kill all adds.
-- |cfff48cbaAcc |rBubble Shield Cancel on Decimate.
+- |cffc41e3aTragic|r taunt off |cfff48cbaAcc |rto let stacks drop, |cfff48cbaAcc|r taunt back after.
 - |cff0070ddDaekeypoo|r Heroism ~ 5 seconds after pull.
