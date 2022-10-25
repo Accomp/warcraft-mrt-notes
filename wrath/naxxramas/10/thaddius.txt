@@ -6,6 +6,6 @@
 |cff808080Phase 2|r
 - Don't fail the jump.
 - To start, stack in front of Thaddius.
-- {spell:28062}  BOSS  {spell:28085}  Stack tightly max melee range.
+- {spell:28085}  BOSS  {spell:28062}  Stack tightly max melee range.
 - If polarity changes, run to LEFT of boss and restack.
 - |cff0070ddDaekeypoo|r Heroism after first {spell:28089} |cffffff00Polarity Shift|r.

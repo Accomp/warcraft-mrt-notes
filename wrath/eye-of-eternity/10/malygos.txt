@@ -2,7 +2,6 @@
 - |cfff48cbaAcc|r solo Tank facing away.
 - Reposition after [Vortex] (no tail swipes).
 - {skull} Kill Power Sparks in melee stack (stand in dmg buff).
-- |cffc41e3aItstragic|r|r grip Power sparks just outside melee.
 - |cff0070ddDaekeypoo|r Heroism once first spark is killed in good position.
 
 |cff808080PHASE 2 - 50%|r
