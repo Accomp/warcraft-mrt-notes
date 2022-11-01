@@ -1,8 +1,6 @@
 - |cfff48cbaAcc|r solo Tank, bring boss to door on other side of room.
-- |cff3fc6eaColdam|r kite all adds in back of room, away from boss. |cff0070ddDaekeypoo|r: Earthbind Totem, |cffaad372Hunter|r: Frost Trap.
-- Everyone stack behind boss, except |cff3fc6eaColdam|r kiting adds.
+- Everyone stack behind boss, except |cffc41e3aTragic|r tanking adds away from boss.
 - DPS single target boss only.
-- |cffaad372Hunter|r Tranq Shot enrages.
-- Once {spell:28375} |cffffff00Decimate|r triggers, Heals top everyone off, and DPS kill all adds.
-- |cffc41e3aTragic|r taunt off |cfff48cbaAcc |rto let stacks drop, |cfff48cbaAcc|r taunt back after.
+- Once {spell:28375} |cffffff00Decimate|r triggers, Heals top everyone off, and DPS kill all adds. |cffc41e3aTragic|r taunt boss.
+- |cfff48cbaAcc |rlet stacks drop, taunt back after.
 - |cff0070ddDaekeypoo|r Heroism ~ 5 seconds after pull.

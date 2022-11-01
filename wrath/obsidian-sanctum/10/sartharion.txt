@@ -1,15 +1,15 @@
-Full burn on Sartharion, must die within 90s.
+|cff808080TRASH|r
+- |cfffff468Rogue|r or |cffaad372Hunter|r reset boss to pull all trash.
+- |cfff48cbaAcc|r Fire Res aura
 
-- Everyone pre-pot, Lust on pull. PUMP DAMAGE.
-- MT tank boss on SW corner, face perpendicular to W side (tail)
-- ALL Dodge lava waves (Lava is churning > Flame Tsunami)
-- ALL Move out of Void Zones.
-- Tragic taunt/grip Lava Blaze adds bring into melee stack for cleave (keep them out of flame wall)
-- MT taunt Tenebron, face away from raid
-- ALL ignore whelps.
-- 75s in, Shadron lands
-- Sartharion 25%, enrages all other drakes.
-
-- At Sartharion 26%, Tragic taunt Tenebron at max range and kite forever (DO NOT get hit by breath)
-- If Tragic dies while kiting, Lida is emergency backup, run out and handle ASAP
-- Raid will die, but Sartharion dies first and gives loots.
+|cff808080BOSS|r
+- |cffc41e3aItstragic|r tank Sartharion front left corner.
+- Don't use cooldowns on pull, just light DPS.
+- When first drake is in position, |cff0070ddDaekeypoo|r Heroism.
+- Stay behind drakes, don't stand in void zones, dodge fire walls.
+- Kill Tenebron ASAP, |cfff48cbaAcc|r tank on same side as boss, in mid.
+- Kill Whelps and Blazes ASAP, |cfffff468Rogue|r or |cffaad372Hunter|r prioritize MD.
+- 20s before Vesperon lands, after Shadron breath, move Shadron to other side.
+- Finish Shadron, Kill Vesperon.
+- Enter portal, kill Acolyte of Vesperon > Acolyte of Shadron.
+- Finish off Sartharion.
