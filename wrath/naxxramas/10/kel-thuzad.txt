@@ -1,18 +1,17 @@
 |cff808080Phase 1|r
-- |cfff48cbaAcc|r solo Tank.
+- |cfff48cbaLutes|r solo Tank.
 - Do not ever leave the middle circle area.
-- {skull} Ranged kill Soldiers and Weavers as they approach (do not go near).
-- {skull} Melee kill Aboms as they approach.
+- Ranged kill Soldiers and Weavers before they reach mid.
+- Melee kill Aboms as they approach mid.
 
 |cff808080Phase 2|r
 - Kill any remaining adds.
 - Ranged spread out 10 yards from each other.
-- Melee split into 2 groups, one on each side of boss (triangle w/ |cfff48cbaAcc|r, max melee range).
-- Interrupt as {spell:55807} |cffffff00Frostbolt|r as much as possible.
-- Move out of {spell:27810} |cffffff00Shadow Fissure|r on ground.
-- CC mind control, {spell:28410} |cffffff00Chains of Kel'Thuzad|r. Do not kill each other!
+- Melee split into 2 groups, one on each side of boss (triangle w/ |cfff48cbaLutes|r, max melee range).
+- Interrupt |cffffff00[Frostbolt]|r as much as possible.
+- Move out of red |cffffff00[Shadow Fissure]|r on ground.
 
 |cff808080Phase 3 (45%)|r
-- |cff0070ddDaekeypoo|r Heroism start of P3 @ 45%.
+- |cff0070ddDaekeypoo|r |cffffff00[Heroism]|r start of P3 @ 45%.
 - All previous mechanics continue, stay spread.
-- Two adds, spawn. |cfff48cbaAcc|r pick up. DPS ignore and kill boss.
+- Two adds, spawn. |cfff48cbaLutes|r pick up. DPS ignore and ST kill boss.

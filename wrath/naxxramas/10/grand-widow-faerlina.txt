@@ -1,7 +1,6 @@
-- |cfff48cbaAcc|r solo Tank.
+- |cfff48cbaLutes|r solo Tank.
 - AOE down all the adds.
-- External CD on each Enrage (no Sac, might die)
-- Move out of {spell:28794} |cffffff00Rain of Fire|r.
-- Healers cleanse {spell:28796} |cffffff00Poison Bolt Volley|r. |cff0070ddDaekeypoo|r: Cleansing Totem.
-- Align defensive CD with every {spell:28798} |cffffff00Frenzy|r.
-- |cff0070ddDaekeypoo|r Heroism ~ 5 seconds after pull.
+- Move back and forth out of |cffffff00[Rain of Fire]|r.
+- Cleanse |cffffff00[Poison Bolt Volley]|r ASAP.
+- Defensive CD with every |cffffff00[Frenzy]|r.
+- |cff0070ddDaekeypoo|r |cffffff00[Heroism]|r ~ 5 seconds after pull.

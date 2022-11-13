@@ -1,8 +1,8 @@
-- |cfff48cbaAcc|r = Thane & Rivendare. |cfff48cbaOdpal|r = Blaumeux. |cff3fc6eaColdam|r = Zeliek.
-- |cffaad372Hunter|r MD Thane to |cfff48cbaAcc|r on pull.
-- Cleave Thane & Rivendare > Zeliek > Blaumeux.
-- |cff3fc6eaColdam|r & |cfff48cbaOdpal|r swap at 4 stacks (just need to have aura, not in melee).
-- Stack when killing Thane to share {spell:28884} |cffffff00Meteor|r damage.
+- |cfff48cbaLutes|r = Thane & Rivendare. |cfff48cbaOdpal|r = Blaumeux. |cff3fc6eaColdam|r = Zeliek.
+- |cfffff468Accomp|r |cffffff00[Tricks]|r Thane to |cfff48cbaLutes|r on pull.
+- DPS cleave Thane & Rivendare > Zeliek > Blaumeux.
+- |cff3fc6eaColdam|r & |cfff48cbaOdpal|r swap at |cffffff004|r stacks.
+- Stack when killing Thane to split |cffffff00[Meteor]|r damage.
 - Spread out as you run to Zeliek. Stay spread.
 - If you get 4 stacks for whatever reason, just run to another boss.
-- |cff0070ddDaekeypoo|r Heroism ~ 5 seconds after front bosses in position.
+- |cff0070ddDaekeypoo|r |cffffff00[Heroism]|r when Thane reaches Rivendare.

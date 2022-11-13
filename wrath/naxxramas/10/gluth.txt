@@ -1,6 +1,7 @@
-- |cfff48cbaAcc|r solo Tank, bring boss to door on other side of room.
-- Everyone stack behind boss, except |cffc41e3aTragic|r tanking adds away from boss.
+- |cfff48cbaLutes|r solo Tank, bring boss to door on other side of room.
+- Everyone stack behind boss, except |cff3fc6eaColdam|r.
 - DPS single target boss only.
-- Once {spell:28375} |cffffff00Decimate|r triggers, Heals top everyone off, and DPS kill all adds. |cffc41e3aTragic|r taunt boss.
-- |cfff48cbaAcc |rlet stacks drop, taunt back after.
-- |cff0070ddDaekeypoo|r Heroism ~ 5 seconds after pull.
+- |cff3fc6eaColdam|r slow/kite adds in back of room; avoid getting hit.
+- At 5 stacks of |cffffff00[Mortal Wound]|r, |cffff7c0aLida|r taunt in bear. |r|cfff48cbaLutes|r taunt back after stacks fall off.
+- If |cffffff00[Decimate]|r happens, Healers top everyone off, and DPS kill all adds.
+- |cff0070ddDaekeypoo|r |cffffff00[Heroism]|r after boss is in position.

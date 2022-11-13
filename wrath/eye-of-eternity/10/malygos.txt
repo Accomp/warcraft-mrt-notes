@@ -1,20 +1,19 @@
 |cff808080PHASE 1|r
-- |cfff48cbaAcc|r solo Tank facing away.
-- Reposition after [Vortex] (no tail swipes).
-- {skull} Kill Power Sparks in melee stack (stand in dmg buff).
-- |cff0070ddDaekeypoo|r Heroism once first spark is killed in good position.
+- |cfff48cbaLutes|r solo Tank facing away.
+- Reposition after |cffffff00[Vortex]|r.
+- Kill Power Sparks in melee stack (stand in dmg buff), stack them if possible.
+- |cff0070ddDaekeypoo|r |cffffff00[Heroism]|r once first spark is killed in good position.
 
 |cff808080PHASE 2 - 50%|r
-- {skull} Keep DPSing boss.
+- Keep DPSing boss until gone.
 - Stand under purple shields.
-- {skull} Kill Nexus Lords ASAP.
-- |cff3fc6eaColdam|r Spellsteal {spell:57060} Haste.
+- Kill Nexus Lords ASAP.
 - Melee DPS get discs first, keep killing.
 
 |cff808080PHASE 3|r
 - Stack in middle.
 - Drakes always stack tight.
 - |cffffffffAllyhail|r / |cfff48cbaOdpal|r heal, everyone else DPS.
-- After every [Static Field], rotate right and stack. Person w/ debuff don't move early.
+- After every |cffffff00[Static Field]|r, rotate right and stack (person w/ debuff don't move early).
 - DPS rotation = 1 > 1 > 2 (keep up debuff).
 - Heal rotation = 3 builder, 4 spender.

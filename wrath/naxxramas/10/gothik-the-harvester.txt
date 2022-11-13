@@ -1,9 +1,11 @@
 |cff808080Phase 1|r
 - Entire Raid stay on Live side (Left).
-- Kill adds as they spawn, |cfff48cbaAcc|r and |cffc41e3aItsTragic|r pick up Knights.
+- |cfff48cbaLutes|r pick up adds as they spawn, DPS down.
 - Ensure your Offensive CDs are ready going into P2.
-- Gates will open, let Tanks gather adds, Defensive Tank CDs and AOE down everything.
+- |cff0070ddDaekeypoo|r drop Earthbind Totem at gate before they open, melee avoid gate. |cff3fc6eaColdam|r |cffffff00[Blizzard]|r to slow.
+- Gates will open, Lutes gather aggro and kite, Defensive CDs and AOE down everything.
+- |cffff7c0aLida|r help bear Tank on Living side until P2.
 
-|cff808080Phase  2 (4:30)|r
-- Boss teleports down, burn him down.
-- |cff0070ddDaekeypoo|r Heroism ~ 5 seconds after boss appears.
+|cff808080Phase  2|r
+- Boss teleports down, Offensive CDs, burn him down.
+- |cff0070ddDaekeypoo|r |cffffff00[Heroism]|r after boss appears.

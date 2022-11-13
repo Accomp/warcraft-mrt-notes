@@ -1,11 +1,11 @@
 |cff808080Phase 1|r
-- |cfff48cbaAcc|r, Melee, |cfff48cbaOdpal|r = Right.
-- |cffc41e3aItstragic|r|r, Ranged, Allyhail = Left.
-- Stalagg & Feugen must die at same time.
+- |cffff7c0aLida|r, Melee, |cfff48cbaOdpal|r = Right.
+- |cfff48cbaLutes|r, Ranged, Allyhail = Left.
+- Stalagg & Feugen must stay on platform and die at same time.
 
 |cff808080Phase 2|r
 - Don't fail the jump.
-- To start, stack in front of Thaddius.
+- Start phase stacked in front of Thaddius.
 - {spell:28085}  BOSS  {spell:28062} Stack tightly max melee range.
-- If polarity changes, run to LEFT of boss and restack.
-- |cff0070ddDaekeypoo|r Heroism after first {spell:28089} |cffffff00Polarity Shift|r.
+- If polarity changes, run through boss and restack.
+- |cff0070ddDaekeypoo|r |cffffff00[Heroism]|r after first |cffffff00[Polarity Shift|r]|r.

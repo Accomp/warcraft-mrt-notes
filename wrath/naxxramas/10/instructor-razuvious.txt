@@ -1,7 +1,7 @@
-- |cfff48cbaAcc|r and |cffc41e3aItstragic|r|r handle mind controls.
-- |cfff48cbaAcc|r tanks first, alternate just before {spell:29061} |cffffff00Bone Barrier|r expires.
-- Tanking = {spell:29061} |cffffff00Bone Barrier|r (6) -> {spell:29060} |cffffff00Taunt|r (5) -> spam {spell:61696} |cffffff00Blood Strike|r (4).
+- |cfff48cbaLutes|r and Allyhail handle mind controls.
+- |cfff48cbaOdpal|r solo healing.
+- |cfff48cbaLutes|r tanks first. Alternate |cffffff00[Taunts]|r just before |cffffff00[Bone Barrier]|r expires.
+- Tanking =  |cffffff00[Bone Barrier (6)]|r -> |cffffff00[Taunt (5)]|r -> spam |cffffff00[Blood Strike (4)]|r.
 - Tanks be sure to right click boss for auto-attacks.
-- After 2 {spell:29060} |cffffff00Taunt|rs, cancel MC and re-MC.
-- |cfff48cbaOdpal|r heal Understudy Tank. Allyhail heal raid.
-- |cff0070ddDaekeypoo|r Heroism ~ 5 seconds after Understudy Tank has aggro.
+- After taunted off of, every time, cancel MC and re-MC.
+- |cff0070ddDaekeypoo|r |cffffff00[Heroism]|r after Understudy Tank has aggro.
