@@ -1,15 +1,18 @@
 |cff808080TRASH|r
-- |cfffff468Rogue|r or |cffaad372Hunter|r reset boss to pull all trash.
-- |cfff48cbaAcc|r Fire Res aura
+- Kill first two packs at entrance.
+- |cfffff468Accomp|r reset Sarth w/ |cffffff00[Vanish]|r.
+- Kill all trash at once.
+- Kill Vesperon.
 
 |cff808080BOSS|r
 - |cffc41e3aItstragic|r tank Sartharion front left corner.
-- Don't use cooldowns on pull, just light DPS.
-- When first drake is in position, |cff0070ddDaekeypoo|r Heroism.
-- Stay behind drakes, don't stand in void zones, dodge fire walls.
-- Kill Tenebron ASAP, |cfff48cbaAcc|r tank on same side as boss, in mid.
-- Kill Whelps and Blazes ASAP, |cfffff468Rogue|r or |cffaad372Hunter|r prioritize MD.
-- 20s before Vesperon lands, after Shadron breath, move Shadron to other side.
-- Finish Shadron, Kill Vesperon.
-- Enter portal, kill Acolyte of Vesperon > Acolyte of Shadron.
-- Finish off Sartharion.
+- |cfff48cbaLutes|r tank Drakes, use |cffffff00[Fire Resistance Aura]|r.
+- Don't use cooldowns on pull, just light DPS on Sartharion.
+- |cfff48cbaLutes|r let Tenebron breath, then move to mid on same side as Sartharion.
+- When Tenebron is in position, |cff0070ddDaekeypoo|r |cffffff00[Heroism]|r.
+- Burn all cooldowns and kill Tenebron once in position.
+- Raid avoid breaths, don't stand in void zones, dodge fire walls.
+- Raid AOE whelps ASAP, slows help.
+- Finish off Tenebron, kill Shadron.
+- Once Drakes are dead, |cfff48cbaLutes|r, Allyhail, all DPS enter portal and kill the Acolyte..
+- Be mindful of fire walls when exiting, kill Sartharion.
